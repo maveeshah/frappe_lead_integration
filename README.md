@@ -11,6 +11,7 @@ Custom Field Creation: Automatically creates custom fields in the Lead doctype i
 
 ## Installation
 Install the app:
+bash
 bench get-app facebook_lead_integration /path/to/facebook_lead_integration
 bench install-app facebook_lead_integration
 
