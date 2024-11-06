@@ -1,4 +1,4 @@
-## Facebook Lead Integration
+## Facebook Lead Integration with Frappe/ERPNext
 Facebook Lead Integration is a Frappe app that captures and manages leads generated from Facebook ad campaigns. This app connects with Facebook's API to verify webhooks, receives real-time lead data, and automatically creates lead records in the Frappe Lead doctype. It includes features for token management, custom field creation, and dynamic lead data mapping, enabling seamless integration with Facebook for lead handling.
 
 ## Features
