@@ -22,7 +22,6 @@ def facebook_lead():
         else:
             return Response('Invalid verify token or mode', status=403, content_type="text/plain")
 
-
     # Handle POST request from Facebook for receiving lead data
     if frappe.local.request.method == 'POST':
         try:
